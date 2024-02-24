@@ -4,3 +4,6 @@
     cd my_config
     pip3 install -r requirements.txt
     python3 install.py
+
+
+![sample](img.png)
