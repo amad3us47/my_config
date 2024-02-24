@@ -9,6 +9,7 @@ call plug#end()
 
 nnoremap <C-q> :Ntree<CR>
 set number
+set mouse=a
 set relativenumber
 colorscheme murphy
 autocmd VimEnter * TransparentEnable
